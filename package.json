@@ -16,7 +16,7 @@
     "easy-loop": "^1.4.4",
     "fs-extra": "^0.30.0",
     "iconv-lite": "^0.4.13",
-    "jsftp": "^1.5.5"
+    "jsftp": "^2.0.0"
   },
   "repository": {
     "type": "git",
